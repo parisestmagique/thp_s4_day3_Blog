@@ -20,4 +20,4 @@ Models are in the ```app/models``` directory
 
 Note: my data is messy and makes no sense, but I have data, which is the only thing that matters for now
 
-Please take it easy when correcting! :wink2:
+Please take it easy when correcting ;)
